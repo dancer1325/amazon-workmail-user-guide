@@ -1,11 +1,18 @@
 # Setting up email clients for Amazon WorkMail<a name="clients"></a>
 
-Amazon WorkMail integrates with most popular email apps and devices\. You can synchronize your email, calendar, and contacts between Amazon WorkMail and your client\.
+* ways to use your Amazon WorkMail account
+  * Amazon WorkMail web client
+  * other email clients
+    * Microsoft Outlook,
+    * stock Android or iOS clients,
+    * macOS clients,
+    * IMAP clients 
+    * POP3 clients
+      * ⚠️NOT supported ⚠️
 
-When your Amazon WorkMail administrator invites you to sign in to your Amazon WorkMail account, you can sign in using the Amazon WorkMail web client\. You can also set up other email clients for use with your Amazon WorkMail account, such as Microsoft Outlook, the stock Android or iOS clients, macOS clients, or IMAP clients\. Currently, POP3 clients are not supported\.
-
-**Warning**  
-To help protect your computer from malicious email attachments, we recommend that you install antivirus software\.
+* recommendations
+  * install antivirus software | your computer
+    * Reason: 🧠protect your computer from malicious email attachments 🧠
 
 **Topics**
 + [Signing in to the Amazon WorkMail web client](web-client.md)
