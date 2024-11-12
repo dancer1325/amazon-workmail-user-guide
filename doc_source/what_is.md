@@ -6,15 +6,12 @@
     * desktop email clients
     * mobile email clients
   * allows
-    * access
+    * access | (Microsoft Outlook / browser / iOS & Android mobile devices), to 
       * your
         * email,
         * contacts,
         * calendars
-      * |
-        * Microsoft Outlook,
-        * your browser,
-        * your iOS & Android mobile devices
+    * sync Amazon WorkMail -- & -- your client
     * integration --  with -- existing corporate directories
       * -> allows controlling
         * keys / encrypt their data
@@ -22,7 +19,7 @@
 
 ## Amazon WorkMail system requirements<a name="workmail_reqs"></a>
 
-* Amazon WorkMail administrator -- invites -- you
+* Amazon WorkMail administrator -- MUST invite -- you
   * see [Signing in to the Amazon WorkMail web client](web-client.md)
 * ALL major mobile devices & operating systems / support the Exchange ActiveSync protocol
   * _Example:_ iPad, iPhone, Android, & Windows Phone
